@@ -1,0 +1,19 @@
+{
+  "name": "socialmediaapp",
+  "version": "1.0.0",
+  "description": "Making social media application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Eldor Togaymurotov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.7"
+  }
+}
